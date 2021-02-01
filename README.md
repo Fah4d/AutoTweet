@@ -19,10 +19,14 @@ It's just a script for auto tweet on twitter with cookies update automatically
 
 - requests 
 
-$ pip install requests
+.. code:: sh
 
+    $ pip install requests
 
 - BeautifulSoup
 
-$ pip install beautifulsoup4
+.. code:: sh
+
+    $ pip install beautifulsoup4
+
 
