@@ -1,9 +1,11 @@
-# AutoTweet
+AutoTweet
+----------
 
 It's just a script for auto tweet on twitter with cookies update automatically
 
 
-# inputs
+inputs
+----------
 
 1 - Add your tweets in " list.txt " and sort them by lines .
 
@@ -15,7 +17,8 @@ It's just a script for auto tweet on twitter with cookies update automatically
 
 
 
-# Requirements
+Requirements
+----------
 
 - requests 
 
