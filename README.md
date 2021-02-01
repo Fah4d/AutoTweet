@@ -2,7 +2,6 @@
 
 It's just a script for auto tweet on twitter with cookies update automatically
 
-------------
 
 # inputs
 
@@ -15,7 +14,6 @@ It's just a script for auto tweet on twitter with cookies update automatically
 4 - Cookies update .. after how many tweets ? 
 
 
-------------
 
 # Requirements
 
