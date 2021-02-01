@@ -7,7 +7,7 @@ It's just a script for auto tweet on twitter with cookies update automatically
 inputs
 ----------
 
-1 - Add your tweets in " list.txt " and sort them by lines .
+1 - Add your tweets in " list.txt " and sort by lines .
 
 2 - Your username and passowrd
 
