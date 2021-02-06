@@ -1,7 +1,7 @@
 AutoTweet
 ----------
 
-It's just a script for auto tweet on twitter with cookies update automatically
+It's just a script for auto tweet on twitter with cookies update automatically .
 
 
 inputs
